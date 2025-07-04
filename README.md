@@ -2,7 +2,7 @@
 
 This project analyzes Medicaid Managed Care data to evaluate patient distribution, provider activity, and service utilization across states and counties. The analysis supports insights into plan performance and potential areas for care improvement.
 
-## Author & Date
+## 🔹 Author & Date
 - **Author:** Praveen Ramanpillai  
 - **Date:** July 2025
 
